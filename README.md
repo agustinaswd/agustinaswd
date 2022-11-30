@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tina
 - 👀 I’m interested in data
 - 🌱 I’m currently learning about data, analyst and science
-- 📫 You can reach me in agustinaswd@gmail.com
+- 📫 You can reach me in gustinaswd@gmail.com
 
 <!---
 agustinaswd/agustinaswd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
